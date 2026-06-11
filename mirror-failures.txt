@@ -1,0 +1,7 @@
+Page FAIL 404: https://cocokart.shop/pages/about
+Page FAIL 404: https://cocokart.shop/pages/about-us
+Page FAIL 404: https://cocokart.shop/pages/contact-us
+Page FAIL 404: https://cocokart.shop/pages/faq
+Page FAIL 404: https://cocokart.shop/pages/shipping
+Page FAIL 404: https://cocokart.shop/policies/refund-policy
+Page FAIL 404: https://cocokart.shop/policies/shipping-policy
