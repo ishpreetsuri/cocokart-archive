@@ -1,6 +1,6 @@
 # CocoKart — Delhi Dropshipping Store (Archived)
 
-Live archive: [filled in after Stage 5]
+Live archive: https://ishpreetsuri.github.io/cocokart-archive/
 
 ## What this is
 CocoKart was an Indian dropshipping store I built and ran solo for 6 months. Delhi-only delivery, COD-first checkout, Meta ads for traffic, Shiprocket for shipping, and a local partner shop for fulfilment. This repo is its final snapshot.
